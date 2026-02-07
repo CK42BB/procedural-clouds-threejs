@@ -1,4 +1,4 @@
-# Procedural Clouds — Teaching Three.js Skill
+# Procedural Clouds — Claude Code Three.js Skill
 
 A Claude Code skill for generating beautiful procedural clouds in Three.js, emphasizing **artistic quality** across all major cloud types with **WebGPU raymarching and WebGL fallbacks**.
 
