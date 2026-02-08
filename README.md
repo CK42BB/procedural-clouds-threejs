@@ -106,7 +106,7 @@ Cloud beauty comes from light interaction, not shape alone. The skill implements
 
 This skill is part of a series designed for learning and teaching Three.js with Claude Code. Each skill is independent and can be used standalone or combined with others.
 
-**Companion skills**: [procedural-landscapes](../procedural-landscapes/) for terrain, [procedural-grass](../procedural-grass/) for ground cover.
+**Companion skills**: [procedural-landscapes](../procedural-landscapes-threejs/) for terrain, [procedural-grass](../procedural-grass-threejs/) for ground cover, [procedural-weather](../procedural-weather-threejs/).
 
 ## License
 
