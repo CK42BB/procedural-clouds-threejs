@@ -104,9 +104,13 @@ Cloud beauty comes from light interaction, not shape alone. The skill implements
 
 ## Series: Teaching Three.js
 
-This skill is part of a series designed for learning and teaching Three.js with Claude Code. Each skill is independent and can be used standalone or combined with others.
+Independent skills that compose for complete environments:
 
-**Companion skills**: [procedural-landscapes](../procedural-landscapes-threejs/) for terrain, [procedural-grass](../procedural-grass-threejs/) for ground cover, [procedural-weather](../procedural-weather-threejs/).
+- [procedural-landscapes](../procedural-landscapes-threejs/) — terrain
+- [procedural-grass](../procedural-grass-threejs/) — ground cover
+- [procedural-clouds](../procedural-stars-threejs/) — nightime skies
+- [procedural-weather](../procedural-weather-threejs/) — precipitation and atmosphere
+- **procedural-clouds** ← this skill.
 
 ## License
 
