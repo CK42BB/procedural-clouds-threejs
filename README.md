@@ -108,7 +108,7 @@ Independent skills that compose for complete environments:
 
 - [procedural-landscapes](../procedural-landscapes-threejs/) — terrain
 - [procedural-grass](../procedural-grass-threejs/) — ground cover
-- [procedural-clouds](../procedural-stars-threejs/) — nightime skies
+- [procedural-stars](../procedural-stars-threejs/) — nightime skies
 - [procedural-weather](../procedural-weather-threejs/) — precipitation and atmosphere
 - **procedural-clouds** ← this skill.
 
